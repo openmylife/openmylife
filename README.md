@@ -2,7 +2,7 @@
 >
 > - 🚀 **一键开启**：点右上角 **Use this template**；或把本仓丢给你的 AI（Claude / Cursor / Trae / 豆包），说一句「读取此仓库，帮我初始化开源人生」。
 > - ✨ **社区星图**：看谁已经加入、或提 PR 收录你自己 👉 **[openmylife/awesome-openlife](https://github.com/openmylife/awesome-openlife)**
-> - 👀 **001 号样板间**：即将上线 —— 先看 [openmylife.xyz](https://openmylife.xyz)
+> - 👀 **001 号样板间**：看发起人是怎么写的 👉 **[muamu/openmylife](https://github.com/muamu/openmylife)**
 > - 🏠 **主持者**：[`openmylife`](https://github.com/openmylife) · 站点：[openmylife.xyz](https://openmylife.xyz)
 
 <!-- OPENMYLIFE_TEMPLATE_START · AI 初始化时删除本行以上的官方引导框，只保留下方个人正文；手动用户直接删掉上面几行即可 -->
