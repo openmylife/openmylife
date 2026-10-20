@@ -10,6 +10,7 @@
 4. 按约定命名（`notes/YYYY-MM-DD-slug.md` 等）并补全 front-matter（`date` / `tags` / `visibility`）。
 5. 过隐私门：`public` / `link-only` / `never`；`never` 写入 `.gitignore`；`inbox/` 原始素材不入库，只提交 `inbox/README.md`。
 6. 提交 commit，并同步更新 `README.md` 的「从哪读起」。
+7. 把 `LICENSE` 与 `LICENSE-CONTENT` 里的署名换成主人本人（文字 CC BY 4.0 / 代码 MIT）。
 
 ## 资源
 
