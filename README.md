@@ -26,7 +26,7 @@
 | 目录 | 内容 | 状态 |
 |---|---|---|
 | [ideas](./ideas) | 灵感备忘录（随手记） | 起步 |
-| [notes](./notes) | 思考与阅读笔记（含 `insights/` 洞察集） | 起步 |
+| [notes](./notes) | 思考与阅读笔记（按领域分目录，含 `insights/` 洞察集） | 起步 |
 | [critiques](./critiques) | 产品报告 / 评测 / 建议 | 起步 |
 | [career](./career) | 职业与方法论 | 起步 |
 | [products](./products) | 做过的产品（build in public） | 计划 |

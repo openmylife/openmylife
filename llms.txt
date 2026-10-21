@@ -7,7 +7,7 @@
 1. 先读 [CONTEXT.md](./CONTEXT.md) —— 目录地图、命名约定、术语与隐私边界都在里面。
 2. 若 `README.md` 顶部有 `OPENMYLIFE_TEMPLATE_START` 标记，删除标记及以上的官方引导框，只保留个人正文。
 3. 把 `README.md` / `CONTEXT.md` / `llms.txt` 里的占位符（`[你的名字]`、`<你的名字>`、`（待补）`）替换为真实信息。
-4. 按约定命名（`notes/YYYY-MM-DD-slug.md` 等）并补全 front-matter（`date` / `tags` / `visibility`）。
+4. 按约定命名（`notes/<domain>/YYYY-MM-DD-slug.md` 等）并补全 front-matter（`date` / `tags` / `visibility`）。
 5. 过隐私门：`public` / `link-only` / `never`；`never` 写入 `.gitignore`；`inbox/` 原始素材不入库，只提交 `inbox/README.md`。
 6. 提交 commit，并同步更新 `README.md` 的「从哪读起」。
 7. 把 `LICENSE` 与 `LICENSE-CONTENT` 里的署名换成主人本人（文字 CC BY 4.0 / 代码 MIT）。
